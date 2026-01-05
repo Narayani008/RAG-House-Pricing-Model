@@ -1,0 +1,10 @@
+__pycache__/
+.env
+venv/
+.env.local
+*.pyc
+*.db
+chroma/
+node_modules/
+.idea/
+.vscode/
